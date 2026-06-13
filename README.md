@@ -1,2 +1,6 @@
 # tape-archiver
-axentx product · Introducing 'archivekeeper': a cloud-native solution for cost-effective and automated data archiving, leveraging tape storage and LTFS.
+
+A tiny command‑line tool that simulates archiving data to tape by copying a directory
+to another location while preserving its structure.
+
+## Installation
